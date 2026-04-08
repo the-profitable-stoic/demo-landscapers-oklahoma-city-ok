@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-landscapers-oklahoma-city-ok.dream-surge.com/sitemap-index.xml

@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Landscapers - Oklahoma City, OK",
+    "phone": "+14054588585",
+    "category": "hardscaping contractor",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Oklahoma City Hardscaping Experts",
+      "heroSubline": "Transforming Oklahoma landscapes with durable and beautiful hardscaping solutions. Serving OKC and surrounding areas with unmatched expertise and commitment.",
+      "aboutTitle": "Built on Oklahoma Soil",
+      "aboutText": [
+        "Landscapers - Oklahoma City, OK started as a small, family-run business with a passion for outdoor spaces. We saw a need for reliable and skilled hardscaping services that could withstand Oklahoma's unique climate challenges.",
+        "Our approach is simple: quality craftsmanship, transparent communication, and a focus on exceeding expectations. We believe in using the best materials and employing proven techniques to deliver results that last.",
+        "We're proud to be a part of the Oklahoma City community. We support local initiatives and strive to create outdoor spaces that enhance the beauty and value of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Years of experience delivering exceptional hardscaping results in Oklahoma City."
+        },
+        {
+          "title": "Weather-Resistant Designs",
+          "description": "Built to withstand Oklahoma's hot summers, icy winters, and severe storms."
+        },
+        {
+          "title": "Customized Solutions",
+          "description": "Tailored hardscaping plans to fit your unique style and property needs."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Oklahoma City's soil conditions and building codes."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Hardscaping Quote",
+      "ctaSubline": "Transform your outdoor space with our expert hardscaping services. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "patios",
+        "name": "Patio Installation",
+        "shortDescription": "Create the perfect outdoor living space with a custom-designed patio.",
+        "description": "We specialize in designing and installing patios that enhance your outdoor living experience. From classic concrete patios to intricate paver designs, we offer a wide range of materials and styles to suit your taste and budget. Our team takes into account Oklahoma City's climate, ensuring proper drainage and long-lasting durability. We handle every aspect of the project, from site preparation and excavation to material selection and installation. Whether you envision a cozy retreat for relaxation or a spacious entertainment area, we can bring your patio dreams to life. We work with you to select the right materials and design that will complement your home's architecture and landscaping. We handle permits, prepare the site, and install your patio with precision and care. We also offer patio repair and maintenance services to keep your patio looking its best for years to come.",
+        "process": [
+          "Step 1: Consultation and Design",
+          "Step 2: Site Preparation and Excavation",
+          "Step 3: Material Selection and Installation",
+          "Step 4: Finishing and Sealing"
+        ],
+        "benefits": [
+          "Increased Property Value",
+          "Enhanced Outdoor Living",
+          "Durable and Long-Lasting",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for patios in Oklahoma City?",
+            "answer": "Concrete pavers, natural stone, and stamped concrete are all excellent choices, offering durability and aesthetic appeal in Oklahoma's climate."
+          },
+          {
+            "question": "How long does patio installation take?",
+            "answer": "The duration varies depending on the size and complexity of the project, but most patios can be installed within 1-2 weeks."
+          },
+          {
+            "question": "Do I need a permit for patio installation?",
+            "answer": "In most cases, a permit is required for patio installation. We will handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Protect your property and enhance its beauty with a professionally built retaining wall.",
+        "description": "We design and construct retaining walls that provide structural support, prevent erosion, and add visual appeal to your landscape. Our retaining walls are built to withstand the expansive clay soil conditions common in Oklahoma City. We use high-quality materials such as concrete blocks, natural stone, and timber to ensure long-lasting performance. Whether you need a retaining wall to level a sloped yard, create a raised garden bed, or prevent soil erosion, we have the expertise to deliver a solution that meets your needs. We understand the importance of proper drainage and structural integrity, and we adhere to strict building codes and industry standards. We carefully assess the site conditions, design a retaining wall that is both functional and aesthetically pleasing, and install it with precision and care. From small residential projects to large commercial developments, we have the experience and resources to handle any retaining wall project. We also offer retaining wall repair and maintenance services to keep your retaining wall in top condition.",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Excavation and Foundation",
+          "Step 3: Wall Construction and Backfilling",
+          "Step 4: Drainage Installation and Finishing"
+        ],
+        "benefits": [
+          "Erosion Control",
+          "Soil Stabilization",
+          "Increased Property Value",
+          "Aesthetic Enhancement"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for retaining walls in Oklahoma City?",
+            "answer": "Concrete blocks, natural stone, and treated timber are all suitable options, depending on the specific application and aesthetic preferences."
+          },
+          {
+            "question": "How long do retaining walls last?",
+            "answer": "With proper construction and maintenance, retaining walls can last for several decades."
+          },
+          {
+            "question": "Do I need a permit for a retaining wall?",
+            "answer": "Yes, a permit is typically required for retaining wall construction. We will handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "driveways",
+        "name": "Driveway Installation",
+        "shortDescription": "Enhance your curb appeal and functionality with a durable and attractive driveway.",
+        "description": "We specialize in designing and installing driveways that are both functional and aesthetically pleasing. We offer a variety of materials, including concrete, asphalt, and pavers, to suit your style and budget. Our driveways are built to withstand Oklahoma City's weather conditions, including extreme temperatures and heavy rainfall. We ensure proper drainage and base preparation to prevent cracking and settling. Whether you need a new driveway installation or a driveway replacement, we have the expertise to deliver a solution that meets your needs. We work with you to select the right materials and design that will complement your home's architecture and landscaping. We handle permits, prepare the site, and install your driveway with precision and care. We also offer driveway repair and maintenance services to keep your driveway looking its best for years to come. We understand the importance of a well-constructed driveway, and we are committed to providing our customers with the highest quality workmanship and materials.",
+        "process": [
+          "Step 1: Design and Planning",
+          "Step 2: Excavation and Base Preparation",
+          "Step 3: Material Installation",
+          "Step 4: Compaction and Finishing"
+        ],
+        "benefits": [
+          "Increased Curb Appeal",
+          "Enhanced Property Value",
+          "Durable and Long-Lasting",
+          "Improved Functionality"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for driveways in Oklahoma City?",
+            "answer": "Concrete is a popular choice due to its durability and affordability, while pavers offer a more decorative and customizable option."
+          },
+          {
+            "question": "How long does driveway installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but most driveways can be installed within 3-5 days."
+          },
+          {
+            "question": "Do I need a permit for driveway installation?",
+            "answer": "Yes, a permit is typically required for driveway installation. We will handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "walkways",
+        "name": "Walkway Installation",
+        "shortDescription": "Create safe and inviting pathways with our custom walkway designs.",
+        "description": "We design and install walkways that enhance the beauty and functionality of your property. We offer a variety of materials, including concrete, pavers, and natural stone, to suit your style and budget. Our walkways are built to withstand Oklahoma City's weather conditions, including extreme temperatures and heavy rainfall. We ensure proper drainage and base preparation to prevent cracking and settling. Whether you need a new walkway installation or a walkway replacement, we have the expertise to deliver a solution that meets your needs. We work with you to select the right materials and design that will complement your home's architecture and landscaping. We handle permits, prepare the site, and install your walkway with precision and care. We also offer walkway repair and maintenance services to keep your walkway looking its best for years to come. A well-designed walkway can add curb appeal, improve safety, and enhance the overall value of your property.",
+        "process": [
+          "Step 1: Design Consultation",
+          "Step 2: Site Preparation",
+          "Step 3: Material Installation",
+          "Step 4: Finishing and Sealing"
+        ],
+        "benefits": [
+          "Improved Curb Appeal",
+          "Enhanced Safety",
+          "Increased Property Value",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for walkways in Oklahoma City?",
+            "answer": "Pavers and natural stone are popular choices for walkways due to their aesthetic appeal and durability."
+          },
+          {
+            "question": "How wide should a walkway be?",
+            "answer": "A walkway should be at least 3 feet wide to allow for comfortable passage."
+          },
+          {
+            "question": "Do I need a permit for walkway installation?",
+            "answer": "In some cases, a permit may be required for walkway installation. We will advise you on the permit requirements."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Elevate your outdoor entertaining with a custom-built outdoor kitchen.",
+        "description": "We design and build outdoor kitchens that are both functional and stylish. We work with you to create a custom design that meets your specific needs and preferences. We offer a variety of features, including grills, smokers, refrigerators, sinks, and countertops. Our outdoor kitchens are built to withstand Oklahoma City's weather conditions, including extreme temperatures and heavy rainfall. We use high-quality materials such as stainless steel, concrete, and stone to ensure long-lasting performance. Whether you want a simple grilling station or a fully equipped outdoor kitchen, we have the expertise to deliver a solution that meets your needs. We handle every aspect of the project, from design and planning to construction and installation. We also offer outdoor kitchen repair and maintenance services to keep your outdoor kitchen looking its best for years to come. An outdoor kitchen can transform your backyard into the perfect space for entertaining and enjoying the outdoors. We handle all the details, including plumbing, electrical, and gas connections.",
+        "process": [
+          "Step 1: Design and Planning",
+          "Step 2: Site Preparation",
+          "Step 3: Construction and Installation",
+          "Step 4: Appliance Hookup and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Entertaining",
+          "Increased Property Value",
+          "Customizable Designs",
+          "Durable and Long-Lasting"
+        ],
+        "faq": [
+          {
+            "question": "What appliances are essential for an outdoor kitchen?",
+            "answer": "A grill is the most essential appliance, followed by a refrigerator and a sink."
+          },
+          {
+            "question": "What materials are best for outdoor kitchen countertops?",
+            "answer": "Granite and concrete are popular choices for outdoor kitchen countertops due to their durability and weather resistance."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen?",
+            "answer": "Yes, a permit is typically required for outdoor kitchen construction. We will handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "fire-pits",
+        "name": "Fire Pits",
+        "shortDescription": "Create a cozy gathering spot with a custom-designed fire pit.",
+        "description": "We design and build fire pits that add warmth and ambiance to your outdoor space. We offer a variety of styles, including wood-burning, gas-burning, and propane-burning fire pits. Our fire pits are built to withstand Oklahoma City's weather conditions, including extreme temperatures and heavy rainfall. We use high-quality materials such as stone, brick, and concrete to ensure long-lasting performance. Whether you want a simple fire pit for roasting marshmallows or a more elaborate fire pit with seating, we have the expertise to deliver a solution that meets your needs. We work with you to select the right materials and design that will complement your home's architecture and landscaping. We handle permits, prepare the site, and install your fire pit with precision and care. We also offer fire pit repair and maintenance services to keep your fire pit looking its best for years to come. A fire pit can transform your backyard into a cozy and inviting space for family and friends to gather. We can build a fire pit that is both functional and aesthetically pleasing.",
+        "process": [
+          "Step 1: Design and Planning",
+          "Step 2: Site Preparation",
+          "Step 3: Construction and Installation",
+          "Step 4: Finishing and Safety Inspection"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Ambiance",
+          "Cozy Gathering Spot",
+          "Increased Property Value",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for fire pits in Oklahoma City?",
+            "answer": "Stone and brick are popular choices for fire pits due to their durability and heat resistance."
+          },
+          {
+            "question": "What is the ideal size for a fire pit?",
+            "answer": "The ideal size for a fire pit depends on the size of your outdoor space and the number of people you want to accommodate. A diameter of 3-4 feet is generally sufficient for a small gathering."
+          },
+          {
+            "question": "Do I need a permit for a fire pit?",
+            "answer": "Yes, a permit is typically required for fire pit construction. We will handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "pergolas-and-arbors",
+        "name": "Pergolas & Arbors",
+        "shortDescription": "Add shade and architectural interest to your landscape with a custom pergola or arbor.",
+        "description": "We design and build pergolas and arbors that enhance the beauty and functionality of your outdoor space. We offer a variety of styles and materials, including wood, vinyl, and metal. Our pergolas and arbors are built to withstand Oklahoma City's weather conditions, providing shade and protection from the sun. Whether you want a simple pergola to create a shaded seating area or a more elaborate arbor to frame a garden entrance, we have the expertise to deliver a solution that meets your needs. We work with you to select the right materials and design that will complement your home's architecture and landscaping. We handle permits, prepare the site, and install your pergola or arbor with precision and care. We also offer pergola and arbor repair and maintenance services to keep your structure looking its best for years to come. A pergola or arbor can add architectural interest, provide shade, and create a focal point in your landscape. We can design and build a structure that is both beautiful and functional.",
+        "process": [
+          "Step 1: Design Consultation",
+          "Step 2: Site Preparation",
+          "Step 3: Construction and Installation",
+          "Step 4: Finishing and Staining/Painting"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Aesthetics",
+          "Shade and Protection",
+          "Increased Property Value",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "What is the best material for pergolas and arbors in Oklahoma City?",
+            "answer": "Wood is a popular choice for pergolas and arbors due to its natural beauty and versatility, while vinyl offers a low-maintenance alternative."
+          },
+          {
+            "question": "How tall should a pergola be?",
+            "answer": "A pergola should be at least 8 feet tall to provide adequate headroom."
+          },
+          {
+            "question": "Do I need a permit for a pergola or arbor?",
+            "answer": "In some cases, a permit may be required for pergola or arbor construction. We will advise you on the permit requirements."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK is proud to offer premium hardscaping services to the residents and businesses of Oklahoma City. From custom patios and walkways to retaining walls and outdoor kitchens, we transform outdoor spaces into stunning and functional areas. Our experienced team is dedicated to providing exceptional craftsmanship and using only the highest quality materials to ensure lasting beauty and value.\n\nWe understand the unique needs of Oklahoma City properties and work closely with our clients to design and build hardscapes that complement their homes and lifestyles. Whether you're looking to enhance your curb appeal, create an inviting outdoor living space, or add practical features to your property, Landscapers - Oklahoma City, OK is your trusted partner for all your hardscaping needs.",
+        "localContext": "Oklahoma City is a vibrant and growing metropolitan area with a diverse architectural landscape, demanding hardscaping solutions that blend seamlessly with existing designs. We understand the importance of durable materials that can withstand Oklahoma's varying weather conditions.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK extends its expert hardscaping services to the beautiful city of Edmond. We specialize in creating elegant and functional outdoor spaces that enhance the value and enjoyment of your home. Our services include patio design and installation, walkway construction, retaining wall solutions, and outdoor fireplace creation.\n\nWe understand Edmond's commitment to quality and aesthetics, and we strive to exceed expectations with every project. Our team works closely with homeowners to design hardscapes that reflect their personal style and complement the surrounding landscape. Trust Landscapers - Oklahoma City, OK to bring your hardscaping vision to life in Edmond.",
+        "localContext": "Edmond boasts meticulously maintained residences and an appreciation for high-quality landscaping, making durable and visually appealing hardscaping essential.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK provides comprehensive hardscaping services to the residents of Moore, Oklahoma. We are dedicated to helping homeowners create beautiful and functional outdoor living spaces that enhance their properties. Our services encompass a wide range of hardscaping solutions, including patio installations, walkway construction, retaining wall design and implementation, and outdoor kitchen construction.\n\nWe are aware of the unique challenges faced by Moore homeowners, including the need for durable and resilient hardscapes that can withstand Oklahoma's weather. Our team is committed to using high-quality materials and expert craftsmanship to ensure long-lasting beauty and functionality.",
+        "localContext": "Moore's family-oriented community values outdoor spaces for recreation and relaxation, thus requiring well-designed and durable hardscaping features.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK is proud to offer exceptional hardscaping services to the community of Norman, Oklahoma. We specialize in creating stunning and functional outdoor spaces that enhance the beauty and value of your home. Our services include custom patio design and installation, walkway construction, retaining wall solutions, and outdoor kitchen construction.\n\nWe understand the unique needs of Norman properties and work closely with our clients to design and build hardscapes that complement their homes and lifestyles. Whether you're looking to enhance your curb appeal, create an inviting outdoor living space, or add practical features to your property, Landscapers - Oklahoma City, OK is your trusted partner for all your hardscaping needs in Norman.",
+        "localContext": "Norman's blend of university life and suburban living creates a demand for both aesthetically pleasing and functional hardscaping designs.",
+        "nearbyAreas": [
+          "Moore",
+          "Oklahoma City",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK extends its top-quality hardscaping services to Yukon, Oklahoma. We focus on designing and constructing beautiful and functional outdoor spaces that enhance your home's value and appeal. Our services include patio installation, walkway design, retaining wall construction, and outdoor living area creation.\n\nWe understand Yukon's community values and aesthetic preferences, tailoring our hardscaping designs to complement the local landscape. Our team collaborates closely with homeowners to bring their visions to life, using high-quality materials and expert craftsmanship for lasting results.",
+        "localContext": "Yukon's strong sense of community and family-friendly environment makes outdoor living spaces a priority for many homeowners.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK proudly serves the city of Mustang, Oklahoma, with expert hardscaping solutions. We specialize in creating stunning and functional outdoor spaces that enhance the beauty and value of your property. Our services include patio design and installation, walkway construction, retaining wall solutions, and outdoor fire pit construction.\n\nWe understand the needs of Mustang homeowners and work closely with them to design and build hardscapes that complement their homes and lifestyles. Whether you're looking to enhance your curb appeal, create an inviting outdoor living space, or add practical features to your property, Landscapers - Oklahoma City, OK is your trusted partner for all your hardscaping needs in Mustang.",
+        "localContext": "Mustang is a growing suburban community with a strong emphasis on family and outdoor activities, making well-designed hardscaping a desirable feature for many homes.",
+        "nearbyAreas": [
+          "Yukon",
+          "Oklahoma City",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Choctaw",
+        "slug": "choctaw-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK is pleased to offer its expert hardscaping services to the residents of Choctaw, Oklahoma. We focus on creating beautiful and functional outdoor spaces that enhance your property's value and appeal. Our services include patio installation, walkway construction, retaining wall design, and outdoor kitchen creation.\n\nWe understand Choctaw's unique landscape and community values, tailoring our hardscaping designs to complement the local environment. Our team works closely with homeowners to bring their visions to life, using high-quality materials and expert craftsmanship for lasting results.",
+        "localContext": "Choctaw's rural charm and spacious properties create opportunities for expansive and customized hardscaping designs.",
+        "nearbyAreas": [
+          "Midwest City",
+          "Nicoma Park",
+          "Harrah"
+        ]
+      },
+      {
+        "city": "Midwest City",
+        "slug": "midwest-city-ok",
+        "state": "OK",
+        "content": "Landscapers - Oklahoma City, OK is dedicated to providing top-notch hardscaping services to the residents of Midwest City, Oklahoma. We specialize in creating beautiful and functional outdoor spaces that enhance the value and enjoyment of your home. Our services include patio design and installation, walkway construction, retaining wall solutions, and outdoor living area construction.\n\nWe understand the unique needs of Midwest City properties and work closely with our clients to design and build hardscapes that complement their homes and lifestyles. Whether you're looking to enhance your curb appeal, create an inviting outdoor living space, or add practical features to your property, Landscapers - Oklahoma City, OK is your trusted partner for all your hardscaping needs in Midwest City.",
+        "localContext": "Midwest City, with its established neighborhoods and diverse architectural styles, benefits from hardscaping that enhances curb appeal and outdoor living spaces.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Del City",
+          "Choctaw"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "Landscapers - Oklahoma City, OK did an amazing job on our new patio! They helped us choose the perfect pavers and the design is exactly what we wanted. The crew was professional and efficient, and the finished product is beautiful. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Retaining Wall",
+        "text": "We had a problem with erosion in our backyard, and Landscapers - Oklahoma City, OK built a retaining wall that solved the problem perfectly. The wall looks great and is very sturdy. There was a minor communication issue during scheduling, but they quickly resolved it.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Driveway Installation",
+        "text": "Our old driveway was cracked and uneven, so we hired Landscapers - Oklahoma City, OK to install a new one. They did a fantastic job! The new driveway is smooth, durable, and looks great. The team was professional and courteous throughout the entire process.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Outdoor Kitchens",
+        "text": "We had Landscapers - Oklahoma City, OK design and build our outdoor kitchen, and we couldn't be happier! It's perfect for entertaining, and the quality of the workmanship is outstanding. They really listened to what we wanted and created a space that is both functional and beautiful.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Walkway Installation",
+        "text": "Landscapers - Oklahoma City, OK installed a beautiful paver walkway in our backyard. It adds so much to the overall look of our property. The only reason I didn't give them 5 stars is because the project took a little longer than expected.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Fire Pit",
+        "text": "Great experience with Landscapers - Oklahoma City, OK. They built a custom stone fire pit in our backyard, and it's become our favorite spot to relax and entertain. The quality of the work is excellent, and the price was very reasonable.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "OKC Hardscaping | Landscapers - Oklahoma City, OK",
+        "description": "Expert hardscaping services in Oklahoma City. Patios, retaining walls, driveways, outdoor kitchens & more. Call +14054588585 for a free quote!"
+      },
+      "about": {
+        "title": "About Us | Landscapers - Oklahoma City, OK",
+        "description": "Learn about Landscapers - Oklahoma City, OK, our commitment to quality hardscaping, and our dedication to the Oklahoma City community."
+      },
+      "services": {
+        "title": "Hardscaping Services | Landscapers - Oklahoma City, OK",
+        "description": "Comprehensive hardscaping services in Oklahoma City. Patios, retaining walls, driveways, walkways, outdoor kitchens, and more."
+      },
+      "contact": {
+        "title": "Contact Us | Landscapers - Oklahoma City, OK",
+        "description": "Contact Landscapers - Oklahoma City, OK for a free hardscaping quote. Call +14054588585 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Landscapers - Oklahoma City, OK",
+        "description": "Read what our customers are saying about Landscapers - Oklahoma City, OK. See our reviews for patios, retaining walls, driveways, and more."
+      },
+      "service-areas": {
+        "title": "Service Areas | Landscapers - Oklahoma City, OK",
+        "description": "Landscapers - Oklahoma City, OK provides hardscaping services in Oklahoma City and surrounding areas. See our full service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "patios": "/images/service-patios.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "driveways": "/images/service-driveways.webp",
+      "walkways": "/images/service-walkways.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "fire-pits": "/images/service-fire-pits.webp",
+      "pergolas-and-arbors": "/images/service-pergolas-and-arbors.webp"
+    },
+    "servicesResponsive": {
+      "patios": {
+        "src": "/images/service-patios.webp",
+        "srcset": "/images/service-patios-400w.webp 400w, /images/service-patios-800w.webp 800w, /images/service-patios-1200w.webp 1200w, /images/service-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveways": {
+        "src": "/images/service-driveways.webp",
+        "srcset": "/images/service-driveways-400w.webp 400w, /images/service-driveways-800w.webp 800w, /images/service-driveways-1200w.webp 1200w, /images/service-driveways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "walkways": {
+        "src": "/images/service-walkways.webp",
+        "srcset": "/images/service-walkways-400w.webp 400w, /images/service-walkways-800w.webp 800w, /images/service-walkways-1200w.webp 1200w, /images/service-walkways.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fire-pits": {
+        "src": "/images/service-fire-pits.webp",
+        "srcset": "/images/service-fire-pits-400w.webp 400w, /images/service-fire-pits-800w.webp 800w, /images/service-fire-pits-1200w.webp 1200w, /images/service-fire-pits.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pergolas-and-arbors": {
+        "src": "/images/service-pergolas-and-arbors.webp",
+        "srcset": "/images/service-pergolas-and-arbors-400w.webp 400w, /images/service-pergolas-and-arbors-800w.webp 800w, /images/service-pergolas-and-arbors-1200w.webp 1200w, /images/service-pergolas-and-arbors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
